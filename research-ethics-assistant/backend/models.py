@@ -47,3 +47,37 @@ class FeedbackRequest(BaseModel):
     rating: str  # "helpful" or "unhelpful"
     comment: Optional[str] = None
 
+
+# ── Paper Analysis Models ─────────────────────────────────────────────────────
+
+class PaperGuidelineSource(BaseModel):
+    """One guideline chunk used as evidence for a paper concern."""
+    document: str
+    page: int
+    section: str
+    excerpt: str
+    organization: str
+
+
+class PaperIssue(BaseModel):
+    """One potential research-ethics concern identified in the paper."""
+    category: str
+    severity: str          # LOW | MEDIUM | HIGH
+    confidence: str        # LOW | MEDIUM | HIGH
+    paper_page: int
+    paper_section: str
+    paper_excerpt: str
+    concern: str           # Plain-language description — always hedged
+    guideline_sources: List[PaperGuidelineSource]
+    recommendation: str
+
+
+class PaperAnalysisResponse(BaseModel):
+    """Top-level response for POST /analyze-paper."""
+    document: str
+    page_count: int
+    analysis_status: str   # POTENTIAL_ISSUES_DETECTED | NO_POTENTIAL_ISSUES_IDENTIFIED |
+                           # INSUFFICIENT_EVIDENCE | INSUFFICIENT_TEXT | ANALYSIS_ERROR
+    summary: str
+    issues: List[PaperIssue]
+    human_review_required: bool
