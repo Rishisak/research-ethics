@@ -1,0 +1,59 @@
+{
+  "status": "ready",
+  "collection_name": "research_ethics_knowledge_base",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "total_documents": 8,
+  "total_pages": 250,
+  "total_chunks": 789,
+  "ingestion_timestamp": "2026-10-03T07:17:47.714695",
+  "documents": [
+    {
+      "filename": "1724844182_icmr_pripe2019.pdf",
+      "document": "ICMR Policy on Research Integrity and Publication Ethics",
+      "pages": 24,
+      "chunks": 48
+    },
+    {
+      "filename": "Guidelines-for-Ethical-Considerations-in-Social-Research-Evaluation-In-India_2020.pdf",
+      "document": "Guidelines for Ethical Considerations in Social Research & Evaluation in India",
+      "pages": 28,
+      "chunks": 61
+    },
+    {
+      "filename": "Research ethics_guidelines for editors and reviewers (1).pdf",
+      "document": "Research ethics checks: Guidelines for editors and reviewers (Duplicate copy)",
+      "pages": 24,
+      "chunks": 55
+    },
+    {
+      "filename": "Research ethics_guidelines for editors and reviewers.pdf",
+      "document": "Research ethics checks: Guidelines for editors and reviewers",
+      "pages": 24,
+      "chunks": 55
+    },
+    {
+      "filename": "WEB-CIOMS-EthicalGuidelines.pdf",
+      "document": "International Ethical Guidelines for Health-related Research Involving Humans",
+      "pages": 119,
+      "chunks": 427
+    },
+    {
+      "filename": "ethics-code-2017.pdf",
+      "document": "APA Ethical Principles of Psychologists and Code of Conduct",
+      "pages": 20,
+      "chunks": 95
+    },
+    {
+      "filename": "general-guidelines.pdf",
+      "document": "General guidelines for research ethics",
+      "pages": 1,
+      "chunks": 8
+    },
+    {
+      "filename": "the-belmont-report-508c_FINAL.pdf",
+      "document": "The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research",
+      "pages": 10,
+      "chunks": 40
+    }
+  ]
+}

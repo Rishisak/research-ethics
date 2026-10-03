@@ -1,0 +1,124 @@
+[
+  {
+    "document": "ICMR Policy on Research Integrity and Publication Ethics",
+    "filename": "1724844182_icmr_pripe2019.pdf",
+    "organization": "Indian Council of Medical Research",
+    "publication_year": 2019,
+    "total_pages": 24,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Research Integrity",
+      "Publication Ethics",
+      "Authorship"
+    ],
+    "description": "Policy guidelines from the Indian Council of Medical Research covering responsible conduct of research, authorship, research misconduct, plagiarism check threshold (<10%), RIO, and reporting."
+  },
+  {
+    "document": "APA Ethical Principles of Psychologists and Code of Conduct",
+    "filename": "ethics-code-2017.pdf",
+    "organization": "American Psychological Association",
+    "publication_year": 2017,
+    "total_pages": 20,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Authorship",
+      "Publication Ethics",
+      "Research Integrity"
+    ],
+    "description": "American Psychological Association ethics code including Standard 8 (Research and Publication), Standard 4 (Privacy and Confidentiality), and core principles."
+  },
+  {
+    "document": "General guidelines for research ethics",
+    "filename": "general-guidelines.pdf",
+    "organization": "The Norwegian National Research Ethics Committees",
+    "publication_year": null,
+    "total_pages": 1,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Publication Ethics",
+      "Research Integrity",
+      "Other Research Ethics"
+    ],
+    "description": "National guidelines from the Norwegian Committees (NEM, NENT, NESH, Granskingsutvalget) defining 14 core ethical principles including voluntary informed consent, confidentiality, integrity, and social responsibility."
+  },
+  {
+    "document": "Guidelines for Ethical Considerations in Social Research & Evaluation in India",
+    "filename": "Guidelines-for-Ethical-Considerations-in-Social-Research-Evaluation-In-India_2020.pdf",
+    "organization": "Centre For Media Studies-Institutional Review Board (CMS-IRB)",
+    "publication_year": 2020,
+    "total_pages": 28,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Research Integrity",
+      "Other Research Ethics"
+    ],
+    "description": "Guidance for social and evaluation research in India by CMS-IRB, detailing human subjects protection, vulnerable populations, verbal vs written consent, privacy, and research ethics committees."
+  },
+  {
+    "document": "Research ethics checks: Guidelines for editors and reviewers",
+    "filename": "Research ethics_guidelines for editors and reviewers.pdf",
+    "organization": "Frontiers",
+    "publication_year": 2024,
+    "total_pages": 24,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Publication Ethics",
+      "Research Integrity",
+      "Authorship"
+    ],
+    "description": "Frontiers editorial guidelines detailing study ethics verification, AIRA automated checks, COPE compliance, consent statements, identifiable patient data, vulnerable populations, and animal studies."
+  },
+  {
+    "document": "Research ethics checks: Guidelines for editors and reviewers (Duplicate copy)",
+    "filename": "Research ethics_guidelines for editors and reviewers (1).pdf",
+    "organization": "Frontiers",
+    "publication_year": 2024,
+    "total_pages": 24,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Publication Ethics",
+      "Research Integrity",
+      "Authorship"
+    ],
+    "description": "Frontiers editorial guidelines for reviewer/editor ethics checks and compliance assessments."
+  },
+  {
+    "document": "The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research",
+    "filename": "the-belmont-report-508c_FINAL.pdf",
+    "organization": "National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research",
+    "publication_year": 1979,
+    "total_pages": 10,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Research Integrity",
+      "Other Research Ethics"
+    ],
+    "description": "Foundational ethical framework establishing Respect for Persons, Beneficence, and Justice, and their applications to Informed Consent, Risk/Benefit Assessment, and Subject Selection."
+  },
+  {
+    "document": "International Ethical Guidelines for Health-related Research Involving Humans",
+    "filename": "WEB-CIOMS-EthicalGuidelines.pdf",
+    "organization": "Council for International Organizations of Medical Sciences (CIOMS) in collaboration with WHO",
+    "publication_year": 2016,
+    "total_pages": 119,
+    "source_type": "provided_guideline",
+    "categories": [
+      "Informed Consent",
+      "Data Handling & Privacy",
+      "Research Integrity",
+      "Other Research Ethics"
+    ],
+    "description": "Comprehensive international guidelines by CIOMS and WHO covering 25 guidelines for health research, consent waivers, biological specimens, data governance, vulnerable groups, and ethics committee review."
+  }
+]
